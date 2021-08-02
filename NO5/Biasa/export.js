@@ -1,0 +1,1 @@
+export const myHoby = 'Mengetik Kata Kata Yang Penuh Makna'
